@@ -238,8 +238,13 @@ a
         text-align: center;
     }
 
-    .beneficios p {
+    .beneficios p 
+    {
         text-align: center;
     }
 
+    .footer p 
+    {
+        text-align: center;
+    }
 }
