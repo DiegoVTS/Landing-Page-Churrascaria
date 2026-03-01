@@ -33,4 +33,6 @@ Praticar a construção de layouts estruturados, melhorar a organização do có
 Projeto concluído como parte da minha evolução no front-end.
 Futuramente poderá receber melhorias com JavaScript e novas funcionalidades.
 
-🔗 Link do projeto: https://diegovts.github.io/Landing-Page-Churrascaria/
+🔗 Link do projeto
+
+https://diegovts.github.io/Landing-Page-Churrascaria/
