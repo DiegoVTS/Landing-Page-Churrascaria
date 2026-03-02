@@ -16,6 +16,8 @@ Estruturação semântica
 
 🎨 Funcionalidades implementadas
 
+Menu Superior Fixo
+
 Seções organizadas com hierarquia visual
 
 Galeria de imagens com rolagem horizontal
