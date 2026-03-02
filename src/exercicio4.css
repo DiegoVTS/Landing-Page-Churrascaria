@@ -5,6 +5,13 @@
   box-sizing: border-box;
 }
 
+html 
+{
+  scroll-behavior: smooth;
+  scroll-padding: 50px;
+}
+
+
 .site
 {
     background-color: #F8F5F2 ;
@@ -33,6 +40,7 @@
     color: #F8F5F2;
 }
 
+
 .menu a:hover
 {
     background-color: #D97706;
@@ -47,7 +55,10 @@ a
     font-weight: 500;
     border-radius: 10px;
     padding: 6px 12px;
+    
 }
+
+
 
 
 #inicio 
@@ -85,7 +96,7 @@ a
     align-items: center;
     max-width: 700px;
     width: 90%;
-    margin: 75px auto;
+    margin: 150px auto;
     color: #D97706;
 }
 
@@ -117,7 +128,7 @@ a
 
 .galeria
 {
-    margin-top: 75px;
+    margin-top: 150px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -148,7 +159,7 @@ a
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 75px auto;
+    margin: 150px auto;
     gap: 20px;
     color: #D97706;
 
@@ -207,6 +218,12 @@ a
         letter-spacing: 2px;
         text-align: center;
         padding: 0 10px;
+    }
+
+    .site
+    {
+        justify-content: center;
+        align-items: center;
     }
 
     .menu {
