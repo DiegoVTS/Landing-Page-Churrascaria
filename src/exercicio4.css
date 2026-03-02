@@ -8,7 +8,7 @@
 html 
 {
   scroll-behavior: smooth;
-  scroll-padding: 50px;
+  scroll-padding: 85px;
 }
 
 
@@ -17,6 +17,7 @@ html
     background-color: #F8F5F2 ;
     font-family: "DM Serif Display", serif;
     color: #1F2937;
+    margin-top: 50px;
 }
 
 .nav
@@ -29,6 +30,10 @@ html
     color: #F8F5F2;
     padding: 15px;
     margin-bottom: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
 
 
@@ -220,6 +225,10 @@ a
         padding: 0 10px;
     }
 
+    html
+    {
+        scroll-padding: 225px;
+    }
     .site
     {
         justify-content: center;
@@ -228,7 +237,7 @@ a
 
     .menu {
         flex-direction: column;
-        gap: 10px;
+        gap: 5px;
     }
 
     .galeria ul {
